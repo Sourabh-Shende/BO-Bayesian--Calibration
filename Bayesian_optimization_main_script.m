@@ -1,11 +1,10 @@
 %%-----------------------------------------------------------------------------------------------------------------------------%%
-%%--         Automated Inverse Finite Element Method Matlab Script Using Bayesian Optimization                               --%%
-%%--                        Date : 23 November 2021                                                                               --%%
+%%--         Bayesian Calibration of Hyperelastic Material Using Bayesian Optimization                                       --%%
+%%--                        Date : 23 November 2021                                                                          --%%
 %%--                       Authors : Sourabh Shende, Teng Long                                                               --%%
-%% 
-
-%% This MATLAB script accompanies the following manuscript:
-%% Teng Long, Sourabh Shende, Chia-Ying Lin, Kumar Vemaganti, "Experiments and Hyperelastic Modeling of Porcine Meniscus Show Heterogeneity at High Strains" submitted to Biomechanics and Mechanobiology (2022).
+%% This MATLAB script accompanies the following manuscript:                                                                  --%%
+%% Teng Long, Sourabh Shende, Chia-Ying Lin, Kumar Vemaganti, "Experiments and Hyperelastic                                  --%%
+%% Modeling of Porcine Meniscus Show Heterogeneity at High Strains" submitted to Biomechanics and Mechanobiology (2022).     --%%
 %%-----------------------------------------------------------------------------------------------------------------------------%%
 
 clc
