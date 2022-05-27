@@ -9,7 +9,7 @@ This code requires following softwares:
 ## Repository content
 This repository contains following files.
 * Bayesian_optimization_main_script.m : Main script to launch the optimization
-* next_sample.m : 
+* next_sample.m : script generates next point of evaluation for BO
 * squared_exponential_n_dim.m : squared exponential covariance function definition
 * surrogate_model.m : Gaussian process surrogate model
 * lower_confidence_bound.m : lower confidence bound acquisition function
