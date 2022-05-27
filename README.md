@@ -1,5 +1,6 @@
 # BO-Bayesian Calibration  
 Bayesian optimization (BO) code for the Bayesian calibration of hyperelastic material models of porcine meniscus.
+
 Companion paper: Experiments and Hyperelastic Modeling of Porcine Meniscus Show Heterogeneity at High Strains.
 
 ## Installation
