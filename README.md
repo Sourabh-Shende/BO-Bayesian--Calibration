@@ -5,7 +5,9 @@ Companion paper: Experiments and Hyperelastic Modeling of Porcine Meniscus Show 
 
 ## Contributors
 Sourabh Shende: shendesc@mail.uc.edu
+
 Teng Long: longt8@mail.uc.edu
+
 Kumar Vemaganti: vemagaks@ucmail.uc.edu
 
 ## Installation
