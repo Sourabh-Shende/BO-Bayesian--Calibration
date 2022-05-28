@@ -35,3 +35,7 @@ The provided results can be reproduced by following steps:
 3. Launch 'Bayesian_optimization_main_script.m' using MATLAB
 
 
+## Cite
+If you use part of this code consider citing:
+
+Cite the code: [![DOI](https://zenodo.org/badge/497143954.svg)](https://zenodo.org/badge/latestdoi/497143954)
