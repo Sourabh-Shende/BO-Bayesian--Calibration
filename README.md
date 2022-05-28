@@ -3,6 +3,11 @@ Bayesian optimization (BO) code for the Bayesian calibration of hyperelastic mat
 
 Companion paper: Experiments and Hyperelastic Modeling of Porcine Meniscus Show Heterogeneity at High Strains.
 
+## Contributors
+Sourabh Shende: shendesc@mail.uc.edu
+Teng Long: longt8@mail.uc.edu
+Kumar Vemaganti: vemagaks@ucmail.uc.edu
+
 ## Installation
 This code requires following softwares:
 * MATLAB (Numerical computing platform)
